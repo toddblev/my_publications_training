@@ -1,4 +1,4 @@
-Author: Todd Blevins
+Author: Todd Blevins, However Smith
 Title: This will blow your mind!
 
 Abstract:
