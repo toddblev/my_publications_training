@@ -1,4 +1,4 @@
-Author: Todd Blevins
+Author: Todd Blevins, Big Hoover
 Title: This will blow your mind!
 
 Abstract:
