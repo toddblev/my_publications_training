@@ -1,8 +1,8 @@
-Author: Todd Blevins, Big Hoover
+Author: Todd Blevins
 Title: This will blow your mind!
 
 Abstract:
 
 Introduction:
 Data analysis:
-Conclusion:
+Conclusion: The data are in, please make note.
